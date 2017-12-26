@@ -1,5 +1,5 @@
 body {text-align: center;
-     }
+      }
 
 #title {font-family: helvitica;
         font-size: 70px;
@@ -7,5 +7,32 @@ body {text-align: center;
         color: white;
         }
 
-.header {background-image:url(I:\Broadway\resources\images\the-flatiron-building.png);
-         }
+
+  .header { background-image: url("../images/the-flatiron-building.png");
+          }
+
+ .list {font-family: helvitica;
+        font-size: 18px;
+        color: white;
+       }
+
+ h3 {font-family: helvitica;
+     font-size: 32px;
+     font-weight: bold;
+   }
+
+   h4 {font-family: helvitica;
+       font-size: 23px;
+       font-weight: bold;
+     }
+
+   p {font-family: helvitica;
+      font-size: 14px;
+      }
+
+ h2 {font-family: helvitica;
+     font-size: 23px;
+     font-weight: bold;
+     color: white;
+     background-image: url("../images/the-flatiron-building.png");
+    }
