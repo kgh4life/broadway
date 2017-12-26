@@ -1,4 +1,4 @@
-body {text-align: center;
+html {text-align: center;
       }
 
 #title {font-family: helvitica;
@@ -30,9 +30,16 @@ body {text-align: center;
       font-size: 14px;
       }
 
- h2 {font-family: helvitica;
-     font-size: 23px;
-     font-weight: bold;
-     color: white;
-     background-image: url("../images/the-flatiron-building.png");
-    }
+ .title2 {font-family: helvitica;
+         font-size: 23px;
+         font-weight: bold;
+         color: white;
+         background-image: url("../images/the-flatiron-building.png");
+        }
+
+   #footer {font-family: helvitica;
+            font-size: 11px;
+            color: white;
+            background-color: dimgray;
+            text-align: left;
+          }
