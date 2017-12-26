@@ -11,10 +11,10 @@ body {text-align: center;
   .header { background-image: url("../images/the-flatiron-building.png");
           }
 
- .list {font-family: helvitica;
+  .nav {font-family: helvitica;
         font-size: 18px;
         color: white;
-       }
+         }
 
  h3 {font-family: helvitica;
      font-size: 32px;
